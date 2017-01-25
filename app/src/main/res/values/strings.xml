@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Assignment</string>
+    <string name="searchbar_hint">Enter a URL or Search the web</string>
+
+    <string name="topsites">Top Sites</string>
+    <string name="trending">Trending</string>
+    <string name="categories">Categories</string>
+    <string name="foot1">Love the App ?</string>
+    <string name="foot2">Share with your friends</string>
+
+    <string name="flipkart">Flipkart</string>
+    <string name="shopping">Shopping</string>
+</resources>
